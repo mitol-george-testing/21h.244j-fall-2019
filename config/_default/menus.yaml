@@ -1,0 +1,84 @@
+leftnav:
+- identifier: 71299574-6770-10f0-e5f3-184bd49a002a
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 92921548-1ff2-3f89-50fc-b1f2ccf6b03d
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 9e42d62b-aac8-5921-1b61-3c436350ea9f
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: 489078a1-9e7b-9a90-3b65-43d9f28ad334
+  name: Discussion Questions
+  url: /pages/discussion-questions
+  weight: 40
+- identifier: 67681be5-308d-024f-ff64-2dd372c480dc
+  name: Assignments
+  url: /pages/assignments
+  weight: 50
+- identifier: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  name: Primary Sources
+  url: /pages/primary-sources/
+  weight: 60
+- identifier: de37ef0c-6387-2491-bf84-7d95cc732e0b
+  name: Collections of Documents and Sources (18th Century)
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/documents-and-sources
+  weight: 70
+- identifier: ce829ed7-fcf8-951f-ed2e-65916eac1710
+  name: Important Fiction with a Political Edge
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/important-fiction-with-a-political-edge
+  weight: 80
+- identifier: f566e24c-9f45-c6f6-2c1d-dac6f1634c82
+  name: Political Philosophy
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/political-philosophy
+  weight: 90
+- identifier: 1db6d4e2-c130-bc25-f032-a98acfaa7273
+  name: Russia's Imperial Presence
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/russias-imperial-presence
+  weight: 100
+- identifier: bb40c0bd-de8b-b795-4150-d140955ab32c
+  name: Peasants and the Countryside
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/peasants-and-the-countryside
+  weight: 110
+- identifier: 3f3e513f-5307-0988-bc64-daf8ccc89b0d
+  name: Women's Letters and Memoirs (and Other Writings)
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/womens-letters-and-memoirs-and-other-writings
+  weight: 120
+- identifier: aaf2a868-8a23-d173-3d7a-f07b31fd3fb9
+  name: Peter the Great
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/peter-the-great
+  weight: 130
+- identifier: 0bfae20f-79cf-ea63-f7d7-dabf3c3ec3d9
+  name: Men's Memoirs, Literature, and Letters
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/mens-memoirs-literature-and-letters
+  weight: 140
+- identifier: eefa223f-5956-5ec5-009f-af7fa6222e92
+  name: Diplomacy
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/diplomacy
+  weight: 150
+- identifier: b728cc57-61d5-c79b-cb24-4c4119ea57e6
+  name: Religion
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/religion
+  weight: 160
+- identifier: f32f4211-801e-8f80-66ec-9c6161c0b15b
+  name: Medicine
+  parent: 9c6774c1-76f8-237c-ab55-f001fbeee510
+  url: /pages/primary-sources/medicine
+  weight: 170
+- identifier: 60db2407-3329-4f13-cfc9-94c0d0bf75f1
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 180
